@@ -28,7 +28,5 @@ A NASA HUNCH project focused on creating a **Medical Diagnostic System using Mac
 ## 📫 Contact
 - **Email:** meyjman@gmail.com
 
-
- ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=liljimmy12e&show_icons=true&theme=radical)
-
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=liljimmy12&show_icons=true&theme=radical) 
 
